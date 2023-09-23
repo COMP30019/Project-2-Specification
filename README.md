@@ -166,7 +166,7 @@ should be implemented, and the game should be playable in a web browser (as a
 WebGL build). The game does not need to be polished at this stage, but it
 should be playable from start to finish. In the `README.md` template there is a
 section titled **Evaluation Plan** that should be filled out by your team by
-this milestone deadline. See the [Evaluation](#evaluation) section below for
+this milestone deadline. See the [Evaluation Plan](#evaluation-plan) section below for
 more details.
 
 After this point, design changes should primarily be based on feedback from end
